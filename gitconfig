@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = owenabaldwin@gmail.com
+	name = Owen Baldwin
